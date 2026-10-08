@@ -21,7 +21,7 @@ Telegram / TG 赚钱、网赚、创业、代理、机器人、群组与频道资
 
 📌 项目简介
 
-Telegram-TG-Chat 是一个 Telegram / TG 资源整理项目，主要关注：
+Chat-X 是一个 Telegram / TG 资源整理项目，主要关注：
 
 - Telegram 赚钱项目
 - TG 赚钱与网赚资源
