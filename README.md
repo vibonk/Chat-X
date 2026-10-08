@@ -14,7 +14,7 @@ Telegram / TG 赚钱、网赚、创业、代理、机器人、群组与频道资
 
 👉 加入 Telegram 群组
 
-**[加入 Telegram / TG 群组 →](https://t.me/chat_x_8)**
+**[点击加入 Telegram / TG 群组 →](https://t.me/chat_x_8)**
 
 这是本项目对应的 Telegram 社群入口，可以用于交流 Telegram、TG 资源、网赚、创业、机器人、群组和频道等相关内容。
 
@@ -95,7 +95,7 @@ Telegram 群组是 Telegram 社区的重要组成部分。
 
 我的 Telegram 群组
 
-**[加入 Telegram / TG 群组 →](https://t.me/chat_x_8)**
+**[点击加入 Telegram / TG 群组 →](https://t.me/chat_x_8)**
 
 ---
 
@@ -116,7 +116,7 @@ Telegram 频道适合用于信息发布、内容订阅和社区运营。
 
 ### 我的 Telegram 频道
 
-**[加入 Telegram / TG 频道 →](https://t.me/chat_x_3)**
+**[点击加入 Telegram / TG 频道 →](https://t.me/chat_x_3)**
 
 这是本项目对应的 Telegram 频道入口，用于发布和分享 Telegram、TG 资源、网赚、创业、机器人、群组和频道等相关内容。
 
