@@ -114,6 +114,12 @@ Telegram 频道适合用于信息发布、内容订阅和社区运营。
 - 新闻资讯频道
 - 其他公开 Telegram 频道资源
 
+### 我的 Telegram 频道
+
+**[加入 Telegram / TG 频道 →](https://t.me/chat_x_3)**
+
+这是本项目对应的 Telegram 频道入口，用于发布和分享 Telegram、TG 资源、网赚、创业、机器人、群组和频道等相关内容。
+
 ---
 
 🛠️ Telegram / TG 工具
