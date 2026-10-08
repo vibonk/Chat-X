@@ -228,4 +228,4 @@ Telegram, TG, Telegram Money, Telegram Earning, Telegram Business, Online Earnin
 
 第三方资源的版权归原作者或相关权利人所有。
 
-如果仓库中的内容涉及版权、商标或其他权利问题，请通过 GitHub Issue 联系维护者。
+如果仓库中的内容涉及版权、商标或其他权利问题，请通过 GitHub Issue 联系维护者。 
