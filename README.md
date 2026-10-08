@@ -1,10 +1,9 @@
-Telegram-TG-Money
+Telegram-TG-Chat
 
 Telegram / TG 赚钱、网赚、创业、代理、机器人、群组与频道资源分享。
 
 本项目整理和分享与 Telegram（TG、纸飞机） 相关的赚钱项目、互联网创业资源、代理项目、Telegram Bot、TG 工具、Telegram 群组、Telegram 频道以及其他实用资源。
 
-«Telegram 通常简称为 TG，中文用户也常称其为“纸飞机”。»
 
 ---
 
@@ -22,7 +21,7 @@ Telegram / TG 赚钱、网赚、创业、代理、机器人、群组与频道资
 
 📌 项目简介
 
-Telegram-TG-Money 是一个 Telegram / TG 资源整理项目，主要关注：
+Telegram-TG-Chat 是一个 Telegram / TG 资源整理项目，主要关注：
 
 - Telegram 赚钱项目
 - TG 赚钱与网赚资源
