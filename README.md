@@ -145,9 +145,11 @@ Telegram 频道适合用于信息发布、内容订阅和社区运营。
 | 💰 赚钱 | Telegram 赚钱、TG 网赚、互联网创业 |
 | 🚀 创业 | Telegram 创业项目、推广和代理 |
 | 🤖 机器人 | Telegram Bot、TG 机器人、自动化工具 |
-| 👥 群组 | Telegram 群组、TG 社群 ​[点击加入群组](https://t.me/chat_x_8)
+| 👥 群组 | Telegram 群组、TG 社群
+[点击加入群组](https://t.me/chat_x_8)
  |
-| 📢 频道 | Telegram 频道、TG Channel [点击加入频道](https://t.me/chat_x_3)
+| 📢 频道 | Telegram 频道、TG Channel
+[点击加入频道](https://t.me/chat_x_3)
  |
 | 🛠️ 工具 | Telegram / TG 相关工具 |
 | 📦 资源 | Telegram 相关公开资源 |
