@@ -2,7 +2,7 @@ Chat-X
 
 Telegram / TG 赚钱、网赚、创业、代理、机器人、群组与频道资源分享。
 
-本项目整理和分享与 Telegram（TG、纸飞机） 相关的赚钱项目、互联网创业资源、代理项目、Telegram Bot、TG 工具、Telegram 群组、Telegram 频道以及其他实用资源。
+本项目整理和分享与 Telegram（TG、纸飞机）X 相关的赚钱项目、互联网创业资源、代理项目、Telegram Bot、TG 工具、Telegram 群组、Telegram 频道以及其他实用资源。
 
 
 ---
